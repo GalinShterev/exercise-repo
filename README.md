@@ -4,3 +4,4 @@ Practicing GitHub
 This will fix the conflict..
 Fixed the conflict again.... :)
 Fixed conflict
+more text
